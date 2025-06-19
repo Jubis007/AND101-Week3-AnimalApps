@@ -8,9 +8,9 @@ Time spent: **5** hours spent in total
 
 ## Summary
 
-**AnimalApps** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**AnimalApps** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **:D , <3 , :O**
 
 ## Application Features
 
@@ -18,9 +18,9 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Pick an app screenshot to duplicate
+- [X] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [X] Create a runnable app that displays an Animal Version of your chosen screenshot
 - [ ] Layout uses one (1) or more ConstraintLayout
 - [ ] Layout uses one (1) or more ImageView
 - [ ] Layout uses three (3) or more TextViews
