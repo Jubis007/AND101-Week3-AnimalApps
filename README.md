@@ -8,7 +8,7 @@ Time spent: **5** hours spent in total
 
 ## Summary
 
-**AnimalApps** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  
+**Koala-ma** is an android app for koalas. They can determine their nap times by their diet! 
 
 If I had to describe this project in three (3) emojis, they would be: **:D , <3 , :O**
 
@@ -27,20 +27,21 @@ The following REQUIRED features are completed:
 
 The following STRETCH features are implemented:
 
-- [ ] Create a custom-shape Button using Shape Drawables
+- [X] Create a custom-shape Button using Shape Drawables
 - [ ] Customize the text fonts by creating new Font Resources
 - [ ] Add Tooltips to your Views to help users understand how to navigate the UI
 - [ ] Create a second layout, this time for an original, personal app idea
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [X] List anything else that you added to improve the app!
+- [X] Imported svg icons for the interface to look better
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the **Klima** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='http://example.com/link/to/your/image.png](https://designvault.io/screen/085465be-6be6-4b0a-ab89-51bbd6a15895' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
