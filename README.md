@@ -41,7 +41,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Klima** app:
 
-<img src='http://example.com/link/to/your/image.png](https://designvault.io/screen/085465be-6be6-4b0a-ab89-51bbd6a15895' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://i.imgur.com/J0mNm44.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
