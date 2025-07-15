@@ -1,0 +1,27 @@
+Excellent! Completing a project from a blank canvas is a huge milestone. Based on the entire process, including the layout construction and the Git troubleshooting, here is a detailed LinkedIn post for you.
+
+***
+
+### LinkedIn Post
+
+Thrilled to share my completed Week 3 project for the CodePath.org Intro to Android Development course! [cite_start]The challenge was to design and build a creative, "animal-themed" UI clone of a real-world app from scratch[cite: 159, 170]. I chose to create "Koala-ma," a koala-themed version of the Klima country selection screen.
+
+This project was a fantastic deep dive into the fundamentals of Android UI development, layout design, and resource management.
+
+Key skills I developed during this assignment:
+[cite_start]🔹 **Designing a Responsive UI:** I built the entire layout from a blank canvas using `ConstraintLayout` to precisely position elements relative to each other and the screen, ensuring the design works across different device sizes[cite: 172].
+
+🔹 **Advanced Drawable Resource Management:** This was a major focus. I learned to effectively use the `drawable` folder to manage multiple asset types:
+* Bitmap images (`.jpg`) for rich backgrounds.
+* Vector assets (`.xml`) for sharp, scalable icons.
+* Custom XML **Shape Drawables** to create styled components, like the rounded grey background for the selector, from code instead of images.
+
+🔹 **Leveraging Android Studio Tools:** I got hands-on with the **Vector Asset Studio**, learning to import both standard Material Design icons (like 'close' and 'lightbulb') and custom local **SVG** files for unique graphics like the koala icon.
+
+🔹 **Complex View Styling:** I went beyond basic components, styling a standard `TextView` to function as a custom dropdown selector, complete with internal icons (`drawableStart`/`drawableEnd`) and precise padding.
+
+🔹 **Practical Git Workflow:** As a bonus, I encountered and resolved a real-world Git branching issue. I practiced a safe workflow to `cherry-pick` a misplaced commit from a `master` branch, merge it into `main`, and clean up the repository, all while preserving the commit history.
+
+This project was a huge step up from modifying existing layouts to creating my own. I'm looking forward to bringing these UIs to life with Kotlin logic!
+
+#AndroidDev #Kotlin #AndroidStudio #UI #MobileDevelopment #Git #CodePath #AlwaysLearning
